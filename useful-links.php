@@ -1,0 +1,1 @@
+https://knowthemage.com/magento2-how-to-create-a-custom-graphql/ .     (for graphql)
